@@ -2,12 +2,3 @@ pyTelegramBotAPI
 Flask
 psutil
 requests
-beautifulsoup4
-python-telegram-bot
-Pillow
-exifread
-pytesseract
-opencv-python
-numpy
-pyrogram==2.0.106
-tgcrypto
